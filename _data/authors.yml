@@ -16,3 +16,10 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Pierre Gourseaud:
+  name        : "Pierre Gourseaud"
+  uri         : "http://p-gourseaud.github.io"
+  email       : "pierre.gourseaud@gmail.com"
+  bio         : "Senior Data Scientist with 7 years of industry experience."
+  avatar      : "profile.png"

@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Pierre Gourseaud"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist with 7 years of working experience, Master of Science from Ecole des Mines de Saint-Etienne."
+  bio              : "Senior Data Scientist with 7 years of working experience, specialized in NLP and Big Data, Master of Science from Ecole des Mines de Saint-Etienne."
   location         : "Paris, France"
   employer         : "Amundi Technology"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "p-gourseaud"
-  kaggle           : # Username  
+  kaggle           : "gourseaud"  
   stackoverflow    : "7193352/pierre-gourseaud" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
